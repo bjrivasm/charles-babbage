@@ -1,0 +1,3 @@
+Entre 1833 y 1842 intentó construir una máquina que fuese programable para
+hacer cualquier tipo de cálculo, no sólo los referentes al cálculo de tablas logarítmicas o
+funciones polinómicas.
